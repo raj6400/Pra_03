@@ -21,9 +21,9 @@ dotnet run --project Pra_03.csproj
 
 Below are two example output screenshots from running the program.
 
-![Output 1](images/output1.png)
+<img width="543" height="355" alt="image" src="https://github.com/user-attachments/assets/4adbccde-cb52-4ff7-9bb6-ac572d5b4109" />
+<img width="574" height="897" alt="image" src="https://github.com/user-attachments/assets/a992b3c6-d172-45fb-9d23-7bfdcd63eea5" />
 
-![Output 2](images/output2.png)
 
 ## Adding the screenshots
 
